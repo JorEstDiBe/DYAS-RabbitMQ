@@ -1,4 +1,8 @@
-### Taller sobre RabbitMQ
+# Universidad de la Sabana
+## Diseño y Arquitectura de Software
+### Jorge Esteban Diaz Bernal, Laura Camila Rodriguez Leon, Juan Diego Martinez Escobar
+
+# Taller sobre RabbitMQ
 
 #### Objetivo
 El objetivo de este taller es aprender a utilizar RabbitMQ para la mensajería asincrónica en aplicaciones. Implementaremos ejemplos prácticos para entender cómo enviar y recibir mensajes utilizando RabbitMQ.
