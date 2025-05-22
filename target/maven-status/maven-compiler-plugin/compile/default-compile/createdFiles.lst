@@ -1,0 +1,5 @@
+rabbitmq\days\rabbitmq\Order.class
+rabbitmq\days\rabbitmq\Consumer.class
+rabbitmq\days\rabbitmq\OrderConsumer.class
+rabbitmq\days\rabbitmq\OrderProducer.class
+rabbitmq\days\rabbitmq\Producer.class
